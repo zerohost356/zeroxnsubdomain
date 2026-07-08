@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" width="1200" height="630">
+  <rect width="1200" height="630" fill="#0d1117"/>
+  <rect x="0" y="0" width="1200" height="630" fill="url(#bg)"/>
+  <defs>
+    <radialGradient id="bg" cx="30%" cy="40%">
+      <stop offset="0%" stop-color="#2e1065" stop-opacity="0.6"/>
+      <stop offset="100%" stop-color="#0d1117" stop-opacity="1"/>
+    </radialGradient>
+    <linearGradient id="g" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#8b5cf6"/>
+      <stop offset="100%" stop-color="#6366f1"/>
+    </linearGradient>
+  </defs>
+  <rect x="80" y="225" width="120" height="120" rx="28" fill="url(#g)"/>
+  <path d="M104 270l36 24 36-24" stroke="white" stroke-width="8" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+  <rect x="103" y="259" width="74" height="52" rx="8" stroke="white" stroke-width="8" fill="none"/>
+  <text x="232" y="310" font-family="system-ui,sans-serif" font-size="80" font-weight="800" fill="white">TempMail</text>
+  <text x="234" y="360" font-family="system-ui,sans-serif" font-size="32" fill="#8b949e">Free disposable email. No registration required.</text>
+  <rect x="80" y="420" width="160" height="40" rx="20" fill="#8b5cf6" opacity="0.2"/>
+  <text x="100" y="447" font-family="system-ui,monospace" font-size="20" fill="#a78bfa">1,244 domains available</text>
+</svg>

@@ -1,0 +1,12 @@
+{
+  "name": "TempMail",
+  "short_name": "TempMail",
+  "description": "Free disposable temporary email. No registration required.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0d1117",
+  "theme_color": "#8b5cf6",
+  "icons": [
+    { "src": "/favicon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}
